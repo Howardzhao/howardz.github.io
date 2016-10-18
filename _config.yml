@@ -6,7 +6,7 @@ url: "http://howardzhao.net" # the base hostname & protocol for your site e.g. h
 # User settings
 username: Howardzhao.net
 user_description: Memories,dreams and some little things of my life.
-user_title: howardzhao.net
+user_title: Howardzhao.net
 email: Howard@howardzhao.net
 twitter_username: zhaohao
 github_username:  howardzhao
@@ -44,10 +44,8 @@ compress_html:
 #  profile: false
 #  startings: all
 
-<<<<<<< HEAD
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap]
-=======
 # Links to include in menu navigation
 # For external links add external: true
 links:
@@ -64,4 +62,3 @@ links:
     
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
->>>>>>> parent of 186b2b6... 20161018

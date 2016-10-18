@@ -1,0 +1,67 @@
+# Site settings
+description: Howardzhao.net
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://howardzhao.net" # the base hostname & protocol for your site e.g. https://howardzhao.com
+
+# User settings
+username: Howardzhao.net
+user_description: Memories,dreams and some little things of my life.
+user_title: howardzhao.net
+email: Howard@howardzhao.net
+twitter_username: zhaohao
+github_username:  howardzhao
+#gplus_username:  110432883173969039650
+gplus_username:  101042127931315648623
+disqus_username: howardzhao
+
+# Build settings
+gems: [jekyll-paginate]
+markdown: kramdown
+permalink: /:title.html
+#permalink: /:year-:month-:day-:title.html
+highlighter: pygments
+paginate: 50
+
+#sass
+sass:
+    sass_dir: assets/_sass
+    style: :compressed
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  startings: [html, head, body]
+  profile: false
+
+#  clippings: all
+#  comments: all
+#  endings: all
+#  ignore:
+#    envs: []
+#  blanklines: true
+#  profile: false
+#  startings: all
+
+<<<<<<< HEAD
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap]
+=======
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Archive
+    url: /archive.html
+  - title: About
+    url: /about
+  - title: Timeline
+    url: /timeline.html   
+#  - title: Tags
+#    url: /tags
+    
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
+>>>>>>> parent of 186b2b6... 20161018

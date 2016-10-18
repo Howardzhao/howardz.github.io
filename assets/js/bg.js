@@ -1,0 +1,10 @@
+var bodyBgs = [];
+bodyBgs[0] = "/assets/img/00.jpg";
+bodyBgs[1] = "/assets/img/01.jpg";
+bodyBgs[2] = "/assets/img/02.jpg";
+bodyBgs[3] = "/assets/img/03.jpg";
+bodyBgs[4] = "/assets/img/04.jpg";
+bodyBgs[5] = "/assets/img/05.jpg";
+var randomBgIndex = Math.floor( Math.random() * 6 );
+document.write('<style>.header-site {background:#008090;height:100%;background: url(/assets/img/howardzhao-overlay-05.png), url(' + bodyBgs[randomBgIndex] + ');background-repeat: repeat,no-repeat;background-position: center, center;background-size: auto,cover;}</style>');
+document.write('<style>.header-post {height:40%;background: url(/assets/img/howardzhao-overlay-01.png), url(' + bodyBgs[randomBgIndex] + ');background-repeat: repeat,no-repeat;background-position: center, center;background-size: auto,cover;}</style>');

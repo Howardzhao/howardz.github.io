@@ -1,13 +1,13 @@
 # Site settings
 description: Howardzhao.net
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://howardzhao.net" # the base hostname & protocol for your site e.g. https://howardzhao.com
+url: "" # the base hostname & protocol for your site e.g. https://howardzhao.com
 
 # User settings
 username: Howardzhao.net
 user_description: Memories,dreams and some little things of my life.
-user_title: Howardzhao.net
-email: Howard@howardzhao.net
+user_title: Howardzhao.com
+email: Howard@howardzhao.com
 twitter_username: zhaohao
 github_username:  howardzhao
 #gplus_username:  110432883173969039650

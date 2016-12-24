@@ -4,9 +4,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://howardzhao.github.io" # the base hostname & protocol for your site e.g. https://howardzhao.com
 
 # User settings
-username: Howardzhao.net
+username: HowardZhao
 user_description: Memories,dreams and some little things of my life.
-user_title: Howardzhao.com
+user_title: HowardZhao
 email: Howard@howardzhao.com
 twitter_username: zhaohao
 github_username:  howardzhao

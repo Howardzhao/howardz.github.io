@@ -1,7 +1,7 @@
 # Site settings
 description: Howardzhao.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://howardzhao.github.io" # the base hostname & protocol for your site e.g. https://howardzhao.com
+url: "https://howardzhao.com" # the base hostname & protocol for your site e.g. https://howardzhao.com
 
 # User settings
 username: HowardZhao
